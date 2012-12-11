@@ -1,0 +1,1 @@
+au BufNewFile,BufRead *.diary  setf diary
